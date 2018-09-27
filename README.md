@@ -1,2 +1,2 @@
-# Tarea_1
-Tarea_1 de Métodos Numéricos 
+# Gaspar_Abreu
+T1_GasparAbreu
